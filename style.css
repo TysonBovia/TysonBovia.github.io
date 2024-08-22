@@ -1,5 +1,5 @@
 body {
-    background: rgb(6, 11, 11);
+    background: rgb(0, 0, 0);
     color: rgb(18, 4, 4);
     padding: 10px;
     font-family: arial;
@@ -16,6 +16,9 @@ nav {
    margin: 0 auto;
     display: flex;
     padding: 10px;
+    border-style: double;
+    border-color: black;
+    border-radius: 5cm;
 }
 h1 {
     display: flex;
@@ -38,8 +41,10 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(248, 94, 4);
+    background: rgb(248, 53, 4);
     display: flex;
+    border-style: double;
+    border-color: red;
 }
 .sidebar {
     margin-right: 25px;
@@ -47,6 +52,9 @@ main {
 }
 .sidebar-img {
     width: 200px;
+    image: resolution 200px;;
+    border-style: ridge;
+    border-color: black;
 }
 .content {
     flex: 1;
