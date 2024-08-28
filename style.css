@@ -52,11 +52,10 @@ main {
     margin-right: 25px;
     padding: 10px;
 }
-.sidebar-img {
-    width: 200px;
-    image: resolution 200px;;
-    border-style: ridge;
-    border-color: black;
+.Sidebar-img {
+    width: 200px
+    border-style : ridge;
+    border-color : black;
 }
 .content {
     flex: 1;
@@ -160,3 +159,7 @@ h2, h3 {
                     a{
                       animation:1s glow infinite alternate; 
                     }
+#Captain{
+  border-style: double;
+  border-color: #000000;
+}
