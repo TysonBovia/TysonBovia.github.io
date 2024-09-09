@@ -55,9 +55,9 @@ main {
     padding: 10px;
 }
 .Sidebar-img {
-    width: 200px
-    border-style : ridge;
-    border-color : black;
+    width: 200px;
+    border-style: ridge;
+    border-color: black;
 }
 .content {
     flex: 1;
