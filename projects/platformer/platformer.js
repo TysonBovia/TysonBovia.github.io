@@ -46,6 +46,7 @@ createPlatform(1200,400,200,20)
 createPlatform(0,600,300,1000)
 createPlatform(900,500,80,300)
 createPlatform(1000,630,90,20)
+createPlatform(900,275,80,20)
 
 
 
@@ -68,8 +69,7 @@ createCollectable('diamond',700,690,1,1)
 
 
 createCannon('right',700,'1100',20,20)
-createCannon('top',600,'1000')
-createCannon('top',900,'1000')
+createCannon('top',600,'1000',20,20)
     
     /////////////////////////////////////////////////
     //////////ONLY CHANGE ABOVE THIS POINT///////////
