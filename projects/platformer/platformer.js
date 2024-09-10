@@ -65,6 +65,7 @@ createCollectable('max',1200,690,1,1)
 createCollectable('diamond',700,690,1,1)
 createCollectable('max',960,220 ,1,1)
 createCollectable('diamond',140,220,1,1)
+createCollectable('max',700 ,450,1,1)
     
     // TODO 3
     // Create cannons

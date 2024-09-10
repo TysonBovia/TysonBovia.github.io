@@ -149,7 +149,7 @@ h2, h3 {
                     }
                     @-webkit-keyframes glow {
                       from {
-                        text-shadow: 0 0 10px rgb(248, 224, 2), 0 0 20px rgb(223, 127, 18), 0 0 30px rgb(247, 218, 3), 0 0 40px rgb(247, 235, 6), 0 0 50px rgb(245, 91, 1), 0 0 60px rgb(255, 0, 0), 0 0 70px rgb(232, 89, 7);
+                        text-shadow: 0 0 10px rgb(248, 224, 2), 0 0 20px rgb(223, 127, 18), 0 0 30px rgb(247, 218, 3), 0 0 40px rgb(247, 235, 6), 0 0 50px rgb(245, 217, 1), 0 0 60px rgb(255, 183, 0), 0 0 70px rgb(232, 183, 7);
                       }
                       to {
                         text-shadow: 0 0 20px rgb(235, 229, 229), 0 0 30px #f65e06, 0 0 40px #fe0202, 0 0 50px #ff3c00, 0 0 60px #e60606, 0 0 70px #030102, 0 0 80px #ec0606;
