@@ -3,7 +3,7 @@ body {
     color: rgb(18, 4, 4);
     padding: 10px;
     font-family: arial;
-    background-image:url(https://wallpapers-clan.com/wp-content/uploads/2024/05/kurosaki-ichigo-with-sword-bleach-desktop-wallpaper-preview.jpg);
+    background-image:url(https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/227225a2-2a20-40a6-b890-3763eb376c6a/Bleach+Captains);
     background-size: 100%;
 }
 #all-contents {
@@ -14,7 +14,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(240, 15, 15);
+    background: rgb(1, 2, 63);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -45,10 +45,10 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(225, 60, 5);
+    background: rgb(1, 5, 62);
     display: flex;
     border-style: double;
-    border-color: red;
+    border-color: rgb(30, 1, 44);
 }
 .sidebar {
     margin-right: 25px;
