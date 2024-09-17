@@ -48,7 +48,7 @@ main {
     background: rgb(52, 52, 53);
     display: flex;
     border-style: double;
-    border-color: rgb(27, 1, 52);
+    border-color: rgb(214, 213, 215);
 }
 .sidebar {
     margin-right: 25px;
