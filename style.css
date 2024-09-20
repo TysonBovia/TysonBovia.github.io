@@ -149,10 +149,10 @@ h2, h3 {
                     }
                     @-webkit-keyframes glow {
                       from {
-                        text-shadow: 0 0 10px rgb(248, 2, 2), 0 0 20px rgb(250, 12, 12), 0 0 30px rgb(247, 117, 3), 0 0 40px rgb(247, 6, 6), 0 0 50px rgb(245, 1, 1), 0 0 60px rgb(255, 0, 0), 0 0 70px rgb(232, 7, 7);
+                        text-shadow: 0 0 10px rgb(11, 1, 0), 0 0 20px rgb(73, 2, 2), 0 0 30px rgb(8, 1, 1), 0 0 40px rgb(85, 3, 3), 0 0 50px rgb(6, 0, 0), 0 0 60px rgb(85, 3, 3), 0 0 70px rgb(97, 2, 2);
                       }
                       to {
-                        text-shadow: 0 0 20px rgb(235, 229, 229), 0 0 30px #f65e06, 0 0 40px #fe0202, 0 0 50px #ff3c00, 0 0 60px #e60606, 0 0 70px #030102, 0 0 80px #ec0606;
+                        text-shadow: 0 0 20px rgb(240, 9, 9), 0 0 30px #fcdf00, 0 0 40px #fbd102, 0 0 50px #ff0000, 0 0 60px #f77605, 0 0 70px #fe0404, 0 0 80px #ec8406;
                       }
                     }
                     h1{
