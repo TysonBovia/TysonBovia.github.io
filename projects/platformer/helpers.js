@@ -368,17 +368,17 @@ function deathOfPlayer() {
   ctx.fillStyle = "black";
   ctx.font = "800% serif";
   ctx.fillText(
-    "You are dead",
+    "DEAD!",
     canvas.width / 4,
     canvas.height / 6 + canvas.height / 5,
     (canvas.width / 16) * 14
   );
   ctx.font = "500% serif";
   ctx.fillText(
-    "Hit any key to restart",
+    "Hit any key to revive",
     canvas.width / 4,
     canvas.height / 6 + canvas.height / 3,
-    (canvas.width / 16) * 14
+    (canvas.width / 17) * 14
   );
   if (keyPress.any) {
     keyPress.any = false;
